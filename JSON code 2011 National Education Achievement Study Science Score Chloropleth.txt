@@ -1,0 +1,309 @@
+{
+  "data": [
+    {
+      "locationssrc": "inomniaparatus:2:c83159",
+      "colorscale": [
+        [
+          "0",
+          "rgba(247,252,245,1)"
+        ],
+        [
+          "0.114197530864197",
+          "rgba(231,246,226,1)"
+        ],
+        [
+          "0.225308641975309",
+          "rgba(205,235,198,1)"
+        ],
+        [
+          "0.263888888888889",
+          "rgba(195,231,188,1)"
+        ],
+        [
+          "0.376543209876543",
+          "rgba(160,217,155,1)"
+        ],
+        [
+          "0.407407407407407",
+          "rgba(150,212,145,1)"
+        ],
+        [
+          "0.416666666666667",
+          "rgba(146,210,143,1)"
+        ],
+        [
+          "0.444444444444444",
+          "rgba(136,205,134,1)"
+        ],
+        [
+          "0.45679012345679",
+          "rgba(132,203,131,1)"
+        ],
+        [
+          "0.49537037037037",
+          "rgba(118,197,119,1)"
+        ],
+        [
+          "0.533950617283951",
+          "rgba(103,189,111,1)"
+        ],
+        [
+          "0.592592592592593",
+          "rgba(79,177,99,1)"
+        ],
+        [
+          "0.62962962962963",
+          "rgba(64,170,92,1)"
+        ],
+        [
+          "0.666666666666667",
+          "rgba(55,160,85,1)"
+        ],
+        [
+          "0.703703703703704",
+          "rgba(47,151,78,1)"
+        ],
+        [
+          "0.726851851851852",
+          "rgba(41,145,73,1)"
+        ],
+        [
+          "0.740740740740741",
+          "rgba(37,141,71,1)"
+        ],
+        [
+          "0.766975308641975",
+          "rgba(31,135,66,1)"
+        ],
+        [
+          "0.814814814814815",
+          "rgba(19,123,56,1)"
+        ],
+        [
+          "0.851851851851852",
+          "rgba(8,114,49,1)"
+        ],
+        [
+          "0.882716049382716",
+          "rgba(0,106,43,1)"
+        ],
+        [
+          "0.888888888888889",
+          "rgba(0,104,42,1)"
+        ],
+        [
+          "0.922839506172839",
+          "rgba(0,93,37,1)"
+        ],
+        [
+          "0.96141975308642",
+          "rgba(0,80,32,1)"
+        ],
+        [
+          "1",
+          "rgba(0,68,27,1)"
+        ]
+      ],
+      "zsrc": "inomniaparatus:2:1936a3",
+      "text": [
+        "Alabama <br> 2011 NAEP Science Score 140 <br> Compared to National Average -12",
+        "Alaska <br> 2011 NAEP Science Score 153 <br> Compared to National Average 1",
+        "Arizona <br> 2011 NAEP Science Score 144 <br> Compared to National Average -8",
+        "Arkansas <br> 2011 NAEP Science Score 148 <br> Compared to National Average -4",
+        " California <br> 2011 NAEP Science Score 140 <br> Compared to National Average -12",
+        "Colorado <br> 2011 NAEP Science Score 161 <br> Compared to National Average 9",
+        "Connecticut <br> 2011 NAEP Science Score 155 <br> Compared to National Average 3",
+        "Delaware <br> 2011 NAEP Science Score 150 <br> Compared to National Average -2",
+        "Florida <br> 2011 NAEP Science Score 148 <br> Compared to National Average -4",
+        "Georgia <br> 2011 NAEP Science Score 151 <br> Compared to National Average -1",
+        "Hawaii <br> 2011 NAEP Science Score 142 <br> Compared to National Average -10",
+        "Idaho <br> 2011 NAEP Science Score 159 <br> Compared to National Average 7",
+        "Illinois <br> 2011 NAEP Science Score 147 <br> Compared to National Average -5",
+        "Indiana <br> 2011 NAEP Science Score 153 <br> Compared to National Average 1",
+        "Iowa <br> 2011 NAEP Science Score 157 <br> Compared to National Average 5",
+        "Kansas <br> 2011 NAEP Science Score 156 <br> Compared to National Average 4",
+        "Kentucky <br> 2011 NAEP Science Score 157 <br> Compared to National Average 5",
+        "Louisiana <br> 2011 NAEP Science Score 143 <br> Compared to National Average -9",
+        "Maine <br> 2011 NAEP Science Score 160 <br> Compared to National Average 8",
+        "Maryland <br> 2011 NAEP Science Score 152 <br> Compared to National Average 0",
+        "Massachusetts <br> 2011 NAEP Science Score 161 <br> Compared to National Average 9",
+        "Michigan <br> 2011 NAEP Science Score 157 <br> Compared to National Average 5",
+        "Minnesota <br> 2011 NAEP Science Score 161 <br> Compared to National Average 9",
+        "Mississippi <br> 2011 NAEP Science Score 137 <br> Compared to National Average -15",
+        "Missouri <br> 2011 NAEP Science Score 156 <br> Compared to National Average 4",
+        "Montana <br> 2011 NAEP Science Score 163 <br> Compared to National Average 11",
+        "Nebraska <br> 2011 NAEP Science Score 157 <br> Compared to National Average 5",
+        "Nevada <br> 2011 NAEP Science Score 144 <br> Compared to National Average -8",
+        "New Hampshire <br> 2011 NAEP Science Score 162 <br> Compared to National Average 10",
+        "New Jersey <br> 2011 NAEP Science Score 155 <br> Compared to National Average 3",
+        "New Mexico <br> 2011 NAEP Science Score 145 <br> Compared to National Average -7",
+        "New York <br> 2011 NAEP Science Score 149 <br> Compared to National Average -3",
+        "North Carolina <br> 2011 NAEP Science Score 148 <br> Compared to National Average -4",
+        "North Dakota <br> 2011 NAEP Science Score 164 <br> Compared to National Average 12",
+        "Ohio <br> 2011 NAEP Science Score 158 <br> Compared to National Average 6",
+        "Oklahoma <br> 2011 NAEP Science Score 148 <br> Compared to National Average -4",
+        "Oregon <br> 2011 NAEP Science Score 155 <br> Compared to National Average 3",
+        "Pennsylvania <br> 2011 NAEP Science Score 151 <br> Compared to National Average -1",
+        "Rhode Island <br> 2011 NAEP Science Score 149 <br> Compared to National Average -3",
+        "South Carolina <br> 2011 NAEP Science Score 149 <br> Compared to National Average -3",
+        "South Dakota <br> 2011 NAEP Science Score 162 <br> Compared to National Average 10",
+        "Tennessee <br> 2011 NAEP Science Score 150 <br> Compared to National Average -2",
+        "Texas <br> 2011 NAEP Science Score 153 <br> Compared to National Average 1",
+        "Utah <br> 2011 NAEP Science Score 161 <br> Compared to National Average 9",
+        "Vermont <br> 2011 NAEP Science Score 163 <br> Compared to National Average 11",
+        "Virginia <br> 2011 NAEP Science Score 160 <br> Compared to National Average 8",
+        "Washington <br> 2011 NAEP Science Score 156 <br> Compared to National Average 4",
+        "West Virginia <br> 2011 NAEP Science Score 149 <br> Compared to National Average -3",
+        "Wisconsin <br> 2011 NAEP Science Score 159 <br> Compared to National Average 7",
+        "Wyoming <br> 2011 NAEP Science Score 160 <br> Compared to National Average 8"
+      ],
+      "locations": [
+        "AL",
+        "AK",
+        "AZ",
+        "AR",
+        "CA",
+        "CO",
+        "CT",
+        "DE",
+        "FL",
+        "GA",
+        "HI",
+        "ID",
+        "IL",
+        "IN",
+        "IA",
+        "KS",
+        "KY",
+        "LA",
+        "ME",
+        "MD",
+        "MA",
+        "MI",
+        "MN",
+        "MS",
+        "MO",
+        "MT",
+        "NE",
+        "NV",
+        "NH",
+        "NJ",
+        "NM",
+        "NY",
+        "NC",
+        "ND",
+        "OH",
+        "OK",
+        "OR",
+        "PA",
+        "RI",
+        "SC",
+        "SD",
+        "TN",
+        "TX",
+        "UT",
+        "VT",
+        "VA",
+        "WA",
+        "WV",
+        "WI",
+        "WY"
+      ],
+      "textsrc": "inomniaparatus:2:d74401",
+      "colorbar": {
+        "ticklen": 2,
+        "title": "Science Score Compared to National Average"
+      },
+      "showscale": true,
+      "type": "choropleth",
+      "locationmode": "USA-states",
+      "z": [
+        -12,
+        1,
+        -8,
+        -4,
+        -12,
+        9,
+        3,
+        -2,
+        -4,
+        -1,
+        -10,
+        7,
+        -5,
+        1,
+        5,
+        4,
+        5,
+        -9,
+        8,
+        0,
+        9,
+        5,
+        9,
+        -15,
+        4,
+        11,
+        5,
+        -8,
+        10,
+        3,
+        -7,
+        -3,
+        -4,
+        12,
+        6,
+        -4,
+        3,
+        -1,
+        -3,
+        -3,
+        10,
+        -2,
+        1,
+        9,
+        11,
+        8,
+        4,
+        -3,
+        7,
+        8
+      ],
+      "geo": "geo"
+    }
+  ],
+  "layout": {
+    "geo": {
+      "domain": {
+        "y": [
+          0,
+          1
+        ],
+        "x": [
+          0,
+          1
+        ]
+      },
+      "projection": {
+        "type": "albers usa"
+      },
+      "showframe": true,
+      "showlakes": true,
+      "lakecolor": "rgba(255,255,255,1)",
+      "scope": "usa"
+    },
+    "showlegend": false,
+    "margin": {
+      "r": 10,
+      "b": 40,
+      "l": 60,
+      "t": 25
+    },
+    "scene": {
+      "zaxis": {
+        "title": "X2011.vs.national"
+      }
+    },
+    "title": "2011 National Educational Achievement Study Science Score by State<br>(Hover for breakdown)"
+  }
+}
